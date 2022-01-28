@@ -60,10 +60,10 @@
 - [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/)
 
 ## Deploy Locally
-
+https://github.com/Jwhstsfw/LEGENDUSERBOT.git
 - Clone the repo. 
 
-`git clone https://github.com/The-LegendBot/LEGENDUSERBOT.git`
+`git clone `
 - Open Cloned Folder.
 
 `cd LEGENDUSERBOT`
